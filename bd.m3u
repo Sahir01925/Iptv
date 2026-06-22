@@ -147,6 +147,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 #EXTINF:-1 tvg-id="TSports.bd@SD",T Sports (720p)
 https://tvsen7.aynaott.com/tsports-hd/index.m3u8
 #EXTINF:-1 tvg-id="TSports.bd@SD",T Sports (720p)
-https://tvsen7.aynaott.com/tsportsfhd/index.m3u8
+https://live-cdn.tsports.com/live-01/index.m3u8
 #EXTINF:-1 tvg-id="VoktaTV.bd@SD",Vokta TV (720p)
 https://vokta.raytahost.com/live/voktatv/index.m3u8
