@@ -45,8 +45,6 @@ https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/d96eb
 https://tvsen6.aynaott.com/btv_world/index.m3u8
 #EXTINF:-1 tvg-id="Channel9.bd@SD",Channel 9 (1080p)
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
-#EXTINF:-1 tvg-id="Channel9.bd@SD",Channel 9 (720p)
-https://tvsen6.aynaott.com/channel9/index.m3u8
 #EXTINF:-1 tvg-id="Channel24.bd@SD",Channel 24 (1080p)
 https://bozztv.com/rongo/rongo-Channel24HD/index.m3u8
 #EXTINF:-1 tvg-id="Channel24.bd@SD",Channel 24 (1080p)
