@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AnandaTV.bd@SD",Ananda TV (1080p)
 https://bozztv.com/rongo/rongo-AnandaTV/index.m3u8
-#EXTINF:-1 tvg-id="AnandaTV.bd@SD",Ananda TV (720p)
-https://tvsen6.aynaott.com/anandatv/index.m3u8
-#EXTINF:-1 tvg-id="AnandaTV.bd@SD",Ananda TV (480p)
-http://103.99.249.139/anandatv/index.m3u8
 #EXTINF:-1 tvg-id="AsianTV.bd@SD",Asian TV (720p)
 https://tvsen6.aynaott.com/asiantv/index.m3u8
 #EXTINF:-1 tvg-id="ATNBangla.bd@SD",ATN Bangla (720p)
