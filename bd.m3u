@@ -13,8 +13,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/1706.m3u8
 https://tvsen6.aynaott.com/banglatv/index.m3u8
 #EXTINF:-1 tvg-id="BanglaVision.bd@SD",Bangla Vision (1080p)
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
-#EXTINF:-1 tvg-id="BanglaVision.bd@SD",Bangla Vision (720p)
-https://tvsen5.aynaott.com/banglavision/index.m3u8
 #EXTINF:-1 tvg-id="BijoyTV.bd@SD",Bijoy TV (720p)
 https://tvsen6.aynaott.com/bijoytv/index.m3u8
 #EXTINF:-1 tvg-id="BoishakhiTV.bd@SD",Boishakhi TV (720p)
