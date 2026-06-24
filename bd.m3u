@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AnandaTV.bd@SD",Football (1080p)
+http://103.148.44.38:8000/play/a05u/index.m3u8
 #EXTINF:-1 tvg-id="AnandaTV.bd@SD",Ananda TV (1080p)
 https://bozztv.com/rongo/rongo-AnandaTV/index.m3u8
 #EXTINF:-1 tvg-id="AsianTV.bd@SD",Asian TV (720p)
